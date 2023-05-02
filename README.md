@@ -1,5 +1,5 @@
-# Hey there, I'm Vihaan! 👋
-## I'm a Full Stack Developer enrolled at University of Waterloo
+# 👋 Hey there, I'm Vihaan! 
+## I'm a Full Stack Developer enrolled at University of Waterloo currently looking for Summer Internships
 
 ## 📪Contact
 #### Linkedln: https://www.linkedin.com/in/vihaanjagiasi/
