@@ -6,7 +6,7 @@
 
 - <h3>💬 Ask me about React and iOS</h3>
 
-- <h3>🚗 Using **Python** for Data Structures and Algorithms</h3>
+- <h3>🚗 Using Python for Data Structures and Algorithms</h3>
 
 <h2>📪 Contact</h2>
 <h4>Email: <a href="mailto:vjjagias@uwaterloo.ca">vjjagias@uwaterloo.ca</a></h4>
