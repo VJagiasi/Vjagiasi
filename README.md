@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vihaan Jagiasi</h1>
+<h1 align="center">Yo 👋, I'm Vihaan Jagiasi</h1>
 <h2 align="center">A Full Stack Developer enrolled at the University of Waterloo</h2>
 <img style="width: 400px; border-radius: 30px;" align="right" alt="coding" src="https://miro.medium.com/v2/resize:fit:1360/0*ygaHmPjQnVmEApdT.gif">
 
