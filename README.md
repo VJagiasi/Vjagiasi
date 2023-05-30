@@ -37,6 +37,6 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vjagiasi&show_icons=true&locale=en&layout=compact" alt="vjagiasi" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vjagiasi&show_icons=true&locale=en&layout=compact" alt="vjagiasi" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vjagiasi&show_icons=true&locale=en" alt="vjagiasi" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vjagiasi&show_icons=true&locale=en" alt="vjagiasi" /></p> -->
