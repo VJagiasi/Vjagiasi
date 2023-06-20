@@ -1,6 +1,6 @@
 <h1 align="center">Hey There 👋 I'm Vihaan Jagiasi</h1>
 <h2 align="center">A Full Stack Developer enrolled at the University of Waterloo</h2>
-<img style="width: 400px; border-radius: 30px;" align="right" alt="coding" src="https://twitter.com/nooan_art/status/1666847487192354816?s=46">
+<img style="width: 400px; border-radius: 30px;" align="right" alt="coding" src="https://miro.medium.com/v2/resize:fit:1360/0*ygaHmPjQnVmEApdT.gif">
 
 - <h3>🌱 I’m currently learning MERN Stack</h3>
 
