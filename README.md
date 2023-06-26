@@ -1,5 +1,5 @@
 <h1 align="center">Hey There 👋 I'm Vihaan Jagiasi</h1>
-<h2 align="center">A Full Stack Developer enrolled at the University of Waterloo</h2>
+<h2 align="center">A Sophomore at the University of Waterloo</h2>
 <img style="width: 400px; border-radius: 30px;" align="right" alt="coding" src="appleman.gif">
 
 - <h3>🌱 I’m currently learning MERN Stack</h3>
