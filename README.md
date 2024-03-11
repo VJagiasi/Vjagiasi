@@ -1,11 +1,11 @@
-<h1 align="center"> Hey 👋 I'm Vihaan</h1>
+<h1 align="center"> Hey I'm Vihaan</h1>
 <h2 align="center">A sophomore at the University of Waterloo</h2>
 <!-- <img style="width: 400px; border-radius: 30px;" align="right" alt="coding" src="appleman.gif"> -->
 
 <h2>📪 Contact</h2> 
 <h4>Email: <a href="mailto:vihaan@jagiasi.com">vihaan@jagiasi.com</a></h4>
 <h4>Linkedln: <a href="https://www.linkedin.com/in/vihaanjagiasi/">https://www.linkedin.com/in/vihaanjagiasi/</a><h4>
-<h4>Check out my <a href="https://vihaanjagiasi.vercel.app/">Personal Website</a></h4>
+<h4>Check out my <a href="https://vihaanjagiasi.com">Personal Website</a></h4>
 
 
 <h3 align="left">Connect with me:</h3>
