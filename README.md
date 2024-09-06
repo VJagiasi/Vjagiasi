@@ -1,5 +1,5 @@
-<h1 align="center"> yo I'm Vihaan</h1>
-<h2 align="center">@uwaterloo</h2>
+<h1 align="center"> Hey I'm Vihaan</h1>
+<h2 align="center"> A junior @ waterloo</h2>
 <!-- <img style="width: 400px; border-radius: 30px;" align="right" alt="coding" src="appleman.gif"> -->
 
 <p><a href="https://twitter.com/vihaanjagiasi" target="blank">twitter</p>
